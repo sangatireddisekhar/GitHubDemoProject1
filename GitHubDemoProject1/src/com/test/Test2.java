@@ -8,6 +8,7 @@ public class Test2 {
 		
 		if (eligible=="yes" || eligible=="y") {
 			System.out.println("Eligible");
+			System.out.println("Eligible1");
 		}
 		else {
 			System.out.println("Not Eligible");
